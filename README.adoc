@@ -21,7 +21,41 @@ As opposed to the Green Filed path, we are not starting from scratch, rather we 
 * http://en.wikipedia.org/wiki/Greenfield_project[Greenfield - wiki]
 * http://www.webopedia.com/TERM/G/greenfield.html[Greenfield - Webopedia]
 
+== Monolith Architecture
 
+TODO
+
+* Description
+* Problem
+* Solution
+* Example
+
+== Microservices Architecture
+
+TODO
+
+* Description
+* Problem
+* Solution
+* Example
+
+== Service Discovery
+
+TODO
+
+* Description
+* Problem
+* Solution
+* Example
+
+== Api Gateway
+
+TODO
+
+* Description
+* Problem
+* Solution
+* Example
 
 == Vocabulary
 
