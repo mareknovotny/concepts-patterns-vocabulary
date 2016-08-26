@@ -5,7 +5,7 @@
 
 = Next Application Platform - Concepts
 
-The goal of this project is to iterate through the list of the concepts, patterns that we need to use, understand in order to design/develop projects that we taregt to deploy of the Red Hat Next Application Platform.
+The goal of this project is to identify, define the concepts, patterns that we need to use, understand in order to design/develop projects that we taregt to deploy on the Red Hat Next Application Platform.
 
 toc::[]
 
