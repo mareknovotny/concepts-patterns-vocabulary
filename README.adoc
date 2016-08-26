@@ -3,7 +3,7 @@
 :toc-title: Table of Content
 :numbered:
 
-= Next Application Platform - Concepts
+= Next Application Platform concepts
 
 The goal of this project is to identify, define the concepts, patterns that we need to use, understand in order to design/develop projects that we taregt to deploy on the Red Hat Next Application Platform.
 
