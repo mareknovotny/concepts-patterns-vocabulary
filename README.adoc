@@ -3,7 +3,9 @@
 :toc-title: Table of Content
 :numbered:
 
-= Microservices Patterns
+= Next Application Platform - Concepts
+
+The goal of this project is to iterate through the list of the concepts, patterns that we need to use, understand in order to design/develop projects that we taregt to deploy of the Red Hat Next Application Platform.
 
 toc::[]
 
@@ -20,6 +22,10 @@ As opposed to the Green Filed path, we are not starting from scratch, rather we 
 * http://www.webopedia.com/TERM/B/brownfield.html[Browfield - Webopedia]
 * http://en.wikipedia.org/wiki/Greenfield_project[Greenfield - wiki]
 * http://www.webopedia.com/TERM/G/greenfield.html[Greenfield - Webopedia]
+
+== CI/CD
+
+TODO
 
 == Monolith Architecture
 
